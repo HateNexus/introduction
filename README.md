@@ -48,4 +48,4 @@ These are the projects currently in development.
 
 ## Project Ideas
 If you have an idea for a project or would like to collaborate, check out the 
-[the project-ideas repo in this organisation](https://github.com/HateNexus/project-ideas).
+[Contributing Guide](https://github.com/HateNexus/introduction/blob/master/CONTRIBUTING.md).
